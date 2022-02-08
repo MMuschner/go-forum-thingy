@@ -1,0 +1,9 @@
+.greeterbox {
+    align-content: center;
+    align-self: center;
+    color: blue;
+}
+
+.greeterbox-sub {
+text-align: right;
+}
